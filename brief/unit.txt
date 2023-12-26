@@ -1,0 +1,22 @@
+shuffle les ID des cartes au debut pour pas tricher
+le Joker ne peut pas remplacer un:
+	- AS
+	- 7
+	- 10
+
+Section des column:
+	- 1 2 3
+	- 4 5 6
+	- 8 9
+	- 10 -> roi adverse ou pas ca change rien infliger 10 dmg
+
+Gain PV:
+	- Q + 7(defausse) = +2pv
+	- Joker = +3pv
+	- Q + Joker = 4pv
+ 
+reso:
+- si joue Q -> adverse doit deviner quelle dame , si bon +5pv sinon +1pv
+- Joker + attack:
+	- detruire le J adverse ou K adverse
+	- 
